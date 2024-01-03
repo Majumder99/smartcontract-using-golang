@@ -8,7 +8,6 @@ import (
 	"github.com/ethereum/go-ethereum/ethclient"
 )
 
-var infuraURL = "https://mainnet.infura.io/v3/2MJEo6qegjyxHarloYlEKgpUREW"
 var ganacheURL = "http://localhost:8545"
 
 func main() {
